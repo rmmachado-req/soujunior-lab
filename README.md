@@ -309,10 +309,16 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 ## 19. Semente Embrião
 **Descrição do projeto**: Aplicativo e web para o gerenciamento das plantas da sua horta, desde a preparação do solo, adubação (Orgânica ou química), germinação, transplante, poda e dicas de venda. Se controlar todas essas variáveis de uma espécie é complicado, você imagine de N espécies diferentes.  
 **Equipe**:  
-    - Responsável: <a href="">Renata Machado</a>  
-    - Stakeholder: <a href="">Renata Machado</a>  
-    - Product Manager: <a href="">Renata Machado</a>  
-   
+    - Responsável: <a href="https://www.linkedin.com/in/renata-mmachado/">Renata Machado</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/renata-mmachado/">Renata Machado</a>  
+    - Product Manager: <a href="https://www.linkedin.com/in/renata-mmachado/">Renata Machado</a> | <a href="">Beatriz Grantham</a>
+    - Head de Produtos: <a href="https://www.linkedin.com/in/vanessa-patricia/">Vanêssa Santana</a> <br>
+    - Frontend: <a href="">Alan Moraes</a> | <a href="">Ruan Costa Campos</a>
+    - Backend: <a href="">solemonj</a>
+    - UX/ UI: <a href="">Esdeath</a> | <a href="">Thaisms</a> <br>
+    - QA: <a href="">Érica | QA</a>
+    - Agilista: <a href="">Calmond</a>
+    - DevOps: <a href="">root_afro</a>
 <hr/>
 
 ## 20. Bora Rachar
